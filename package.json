@@ -1,0 +1,21 @@
+{
+  "name": "namedilo_ddns",
+  "version": "1.0.0",
+  "description": "this is a node script to retive public ip and update a resurce on namedilo also to make that info aviable on the web from local server",
+  "main": "server.js",
+  "scripts": {
+    "start":"node ip_updater.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lemys lopez",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "log": "^1.4.0",
+    "request": "^2.83.0",
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.19"
+  }
+}
