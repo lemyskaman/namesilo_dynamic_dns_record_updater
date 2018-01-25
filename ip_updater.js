@@ -136,5 +136,5 @@ function main() {
             //log.error(err) 
         }) 
     }
-setInterval(main, 10000);
+setInterval(main, config.ipifyPollPeriod);
 

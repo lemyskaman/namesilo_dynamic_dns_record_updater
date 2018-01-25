@@ -3,6 +3,7 @@ var _ = require('lodash');
 
 var config = {
      ipifyPublicHttpServiceQuery : "https://api.ipify.org?format=text",
+     ipifyPollPeriod:"10000",//milisecs
      namesilo_target_domain : " ",
      namesilo_target_resource_host : " ",
      namesilo_api_key : " ",
