@@ -1,6 +1,6 @@
 # Simple Namesilo Nodejs Dynamic Domain Name System
 
-This is javascript program implements the [http API](https://www.namesilo.com/api_reference.php) from [namesilo](https://www.namesilo.com/) to update the value of  an  "_Existing Resource Record_ "  with your public ip address, polling it from [ipyfy](https://www.ipify.org) public service. 
+This javascript program implements the [http API](https://www.namesilo.com/api_reference.php) from [namesilo](https://www.namesilo.com/) to update the value of  an  "_Existing Resource Record_ "  with your public ip address, polling it from [ipyfy](https://www.ipify.org) public service. 
 
 ##Requires
 
